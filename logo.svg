@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" fill="none">
+  <!-- Icon: 3 layered rounded diamonds -->
+  <!-- Mint (back-right) -->
+  <rect x="42" y="12" width="44" height="44" rx="10" fill="#2EC4B6" transform="rotate(45 64 34)"/>
+  <!-- Periwinkle (middle) -->
+  <rect x="28" y="12" width="44" height="44" rx="10" fill="#6C8EBF" transform="rotate(45 50 34)"/>
+  <!-- Coral (front) -->
+  <rect x="14" y="12" width="44" height="44" rx="10" fill="#FF6B6B" transform="rotate(45 36 34)"/>
+  <!-- Wordmark: axi -->
+  <text x="90" y="52" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="38" fill="#0D2137">axi</text>
+  <!-- T in mint -->
+  <text x="172" y="52" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="38" fill="#2EC4B6">T</text>
+  <!-- rust -->
+  <text x="192" y="52" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="38" fill="#0D2137">rust</text>
+</svg>
